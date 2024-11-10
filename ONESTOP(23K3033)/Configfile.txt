@@ -1,0 +1,13 @@
+This is the configuration file
+- Default Sorting Algorithm -
+1. Bubble Sort
+2. Selection Sort
+3. Insertion Sort
+4. Merge Sort
+5. Quick Sort
+Enter Choice here: 3
+- Default Searching Algorithm -
+1. Binary Search
+2. Interpolation Search
+Enter Choice here: 1
+Thank you!!!
